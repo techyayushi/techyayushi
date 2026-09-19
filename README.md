@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Building practical solutions with data, web technologies, and software development
+  Building practical solutions with data, web technologies, software development, and AI
 </p>
 
 <p align="center">
@@ -28,6 +28,7 @@
 * 💻 Interested in building practical software and data-driven solutions
 * 📊 Experience working with data analysis, SQL, dashboards, and business insights
 * 🌐 Interested in web development, backend development, and REST APIs
+* 🤖 Exploring Generative AI, prompt engineering, and AI-assisted development
 * 🧩 Enjoy working with databases, debugging, problem-solving, and building projects
 * 🌱 Continuously learning and improving my technical skills
 
@@ -45,19 +46,29 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
 ### 🛠 Tools & Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
+
+---
+
+## 🤖 AI & Intelligent Development
+
+* 🧠 Exploring **Generative AI, Prompt Engineering, and AI-assisted development**
+* ⚡ Using AI tools to support **coding, debugging, problem-solving, and development workflows**
+* 🔍 Interested in applying AI to **data analysis, business insights, automation, and software development**
+* 📊 Combining **Python, SQL, Power BI, and AI-assisted techniques** to work with data and generate insights
+* 🚀 Continuously learning how modern AI technologies can be integrated into practical applications
 
 ---
 
@@ -74,7 +85,7 @@ A business analytics project built using **Python, SQL, MySQL, Pandas, Excel, an
 
 <p>
   <a href="https://github.com/techyayushi/Retail-Business-Insights">
-    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -92,7 +103,7 @@ A web-based application built with **Python, Flask, MySQL, JavaScript, HTML/CSS,
 
 <p>
   <a href="https://github.com/techyayushi/Bloom-And-Books">
-    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -104,7 +115,7 @@ A responsive web project built using **HTML, CSS, JavaScript, and web technologi
 
 <p>
   <a href="https://techyayushi.github.io/AC-Flavors/">
-    <img src="https://img.shields.io/badge/Live%20Demo-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Live%20Demo-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
@@ -112,25 +123,26 @@ A responsive web project built using **HTML, CSS, JavaScript, and web technologi
 
 ## 🧰 Skills
 
-| Area          | Technologies                          |
-| ------------- | ------------------------------------- |
-| Programming   | Python, Java, JavaScript              |
-| Data          | SQL, Pandas, NumPy                    |
-| Analytics     | Power BI, Excel, DAX                  |
-| Web           | HTML, CSS, JavaScript                 |
-| Backend       | Flask, REST APIs, CRUD                |
-| Database      | MySQL, Relational Databases           |
-| Testing & API | Postman, API Testing, Debugging       |
-| Tools         | Git, GitHub, VS Code, Jupyter         |
-| Concepts      | OOP, Problem Solving, Data Validation |
+| Area          | Technologies                                               |
+| ------------- | ---------------------------------------------------------- |
+| Programming   | Python, Java, JavaScript                                   |
+| Data          | SQL, Pandas, NumPy                                         |
+| Analytics     | Power BI, Excel, DAX                                       |
+| AI            | Generative AI, Prompt Engineering, AI-assisted Development |
+| Web           | HTML, CSS, JavaScript                                      |
+| Backend       | Flask, REST APIs, CRUD                                     |
+| Database      | MySQL, Relational Databases                                |
+| Testing & API | Postman, API Testing, Debugging                            |
+| Tools         | Git, GitHub, VS Code, Jupyter                              |
+| Concepts      | OOP, Problem Solving, Data Validation                      |
 
 ---
 
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=techyayushi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techyayushi&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=techyayushi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techyayushi&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 <p align="center">
@@ -142,9 +154,11 @@ A responsive web project built using **HTML, CSS, JavaScript, and web technologi
 ## 🌱 Currently Learning
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Advanced%20SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI%20%26%20DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Advanced%20SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI%20%26%20DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
 ---
@@ -154,17 +168,19 @@ A responsive web project built using **HTML, CSS, JavaScript, and web technologi
 <p align="center">
 
 <a href="https://github.com/techyayushi">
-  <img src="https://skillicons.dev/icons?i=github" width="50"/>
+  <img src="https://img.shields.io/badge/GitHub-techyayushi-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-&nbsp;&nbsp;&nbsp;
+
+  
 
 <a href="https://www.linkedin.com/in/ayushichauhan03">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Ayushi%20Chauhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;&nbsp;&nbsp;
+
+  
 
 <a href="mailto:ayushichauhan032004@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </p>
