@@ -163,30 +163,14 @@ A responsive web project built using **HTML, CSS, JavaScript, and web technologi
 
 ---
 
-## 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/techyayushi">
-  <img src="https://img.shields.io/badge/GitHub-techyayushi-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-  
-
-<a href="https://www.linkedin.com/in/ayushichauhan03">
-  <img src="https://img.shields.io/badge/LinkedIn-Ayushi%20Chauhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-  
-
-<a href="mailto:ayushichauhan032004@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</p>
-
+```markdown
 ---
 
 <p align="center">
-  <i>Thanks for visiting my profile! ⭐</i>
+  <img src="https://komarev.com/ghpvc/?username=techyayushi&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile Views" />
 </p>
+
+<h3 align="center">
+  ✨ Turning curiosity about AI into things I can build ✨
+</h3>
+```
