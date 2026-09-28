@@ -163,9 +163,6 @@ A responsive web project built using **HTML, CSS, JavaScript, and web technologi
 
 ---
 
-```markdown
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=techyayushi&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile Views" />
 </p>
