@@ -141,7 +141,7 @@ A responsive web project built using **HTML, CSS, JavaScript, and web technologi
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=techyayushi&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=techyayushi&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
