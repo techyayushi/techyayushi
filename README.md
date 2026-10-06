@@ -12,7 +12,7 @@
   <a href="https://github.com/techyayushi">
     <img src="https://img.shields.io/badge/GitHub-techyayushi-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/ayushichauhan03/">
+  <a href="https://www.linkedin.com/in/ayushi-chauhan-a12ab1226">
     <img src="https://img.shields.io/badge/LinkedIn-Ayushi%20Chauhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ayushichauhan032004@gmail.com">
